@@ -1,0 +1,4 @@
+#common requirements
+Django==1.5
+djangorestframework
+django-rest-framework-docs

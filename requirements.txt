@@ -1,0 +1,2 @@
+#use the dev dependencies
+-r requirements/dev.txt
